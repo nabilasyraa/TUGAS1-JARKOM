@@ -8,11 +8,12 @@ Mata Kuliah : Praktikum Jaringan Komputer
 
 # Pembuatan dan Pengujian Kabel Straight dan Cross
 ## Hasil Praktikum
-### 1. Kabel Straight
-1. Siapkan kabel
-![Image](https://github.com/user-attachments/assets/193b2c72-2e07-4a8c-8962-ddae407eac1e)
-2. Kupas ujung kabel
-3. Pisahkan dan Luruskan Kabel
+### - Kabel Straight
+1. Siapkan kabel, lalu kupas ujung kabel
+![Image](https://github.com/user-attachments/assets/60fb7a11-d703-4ade-b2b3-86d7fedf6178)
+2. Pisahkan dan Luruskan Kabel
+![Image](https://github.com/user-attachments/assets/e1c2cdbe-314b-4daf-a0b3-c1ac081ede52)
+![Image](https://github.com/user-attachments/assets/65cef804-ae9e-4e91-956d-d769c27c4a38)
 Buka pilinan kabel dan luruskan setiap kabel. Susun kabel-kabel tersebut sesuai dengan urutan warna yang benar untuk kabel straight, yaitu:
 - Putih-Oranye
 - Oranye
@@ -22,4 +23,4 @@ Buka pilinan kabel dan luruskan setiap kabel. Susun kabel-kabel tersebut sesuai 
 - Hijau
 - Putih-Coklat
 - Coklat
-4. 
+3. Setelah urutan warna sudah benar, potong ujung kabel agar rata menggunakan tang crimping.
