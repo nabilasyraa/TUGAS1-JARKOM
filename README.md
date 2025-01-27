@@ -34,24 +34,24 @@ Susun kabel-kabel tersebut sesuai dengan urutan warna yang benar untuk kabel str
 ## Kabel Cross
 ### 1. Siapkan kabel, lalu kupas ujung kabel
 ### 2. Pisahkan kabel-kabel di dalamnya dan luruskan setiap kabel untuk memudahkan penyusunan
-- Susunan warna kabel ujung konektor pertama:
-Pin 1: Oranye Putih
-Pin 2: Oranye
-Pin 3: Hijau Putih
-Pin 4: Biru
-Pin 5: Biru Putih
-Pin 6: Hijau
-Pin 7: Coklat Putih
-Pin 8: Coklat
-- Untuk ujung konektor kedua, urutannya adalah:
-Pin 1: Hijau Putih
-Pin 2: Hijau
-Pin 3: Oranye Putih
-Pin 4: Biru
-Pin 5: Biru Putih
-Pin 6: Oranye
-Pin 7: Coklat Putih
-Pin 8: Coklat457.
+Susunan warna kabel ujung konektor pertama:
+- Oranye Putih
+- Oranye
+- Hijau Putih
+- Biru
+- Biru Putih
+- Hijau
+- Coklat Putih
+- Coklat
+Untuk ujung konektor kedua, urutannya adalah:
+- Hijau Putih
+- Hijau
+- Oranye Putih
+- Biru
+- Biru Putih
+- Oranye
+- Coklat Putih
+- Coklat
 ### 3. Setelah urutan warna sudah benar, potong ujung kabel agar rata menggunakan tang crimping
 ### 4. Masukkan kabel yang sudah disusun ke dalam konektor RJ-45 hingga mentok. Pastikan semua kabel terpasang dengan benar sesuai urutan warna
 ### 5. Gunakan tang crimping untuk mengunci konektor RJ-45 pada kabel. Pastikan semua pin terhubung dengan baik
