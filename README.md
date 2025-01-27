@@ -7,7 +7,7 @@ Kelas : TK3C
 Mata Kuliah : Praktikum Jaringan Komputer
 
 # Pembuatan dan Pengujian Kabel Straight dan Cross
-## - Kabel Straight
+## Kabel Straight
 ### 1. Siapkan kabel, lalu kupas ujung kabel
 ![Image](https://github.com/user-attachments/assets/60fb7a11-d703-4ade-b2b3-86d7fedf6178)
 ### 2. Pisahkan dan Luruskan Kabel
