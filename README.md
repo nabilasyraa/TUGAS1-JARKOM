@@ -13,7 +13,7 @@ Mata Kuliah : Praktikum Jaringan Komputer
 ### 2. Pisahkan dan Luruskan Kabel
 ![Image](https://github.com/user-attachments/assets/e1c2cdbe-314b-4daf-a0b3-c1ac081ede52)
 ![Image](https://github.com/user-attachments/assets/ea44efcb-c215-4981-9483-d826b4a7cbe8)
-Buka pilinan kabel dan luruskan setiap kabel. Susun kabel-kabel tersebut sesuai dengan urutan warna yang benar untuk kabel straight, yaitu:
+Susun kabel-kabel tersebut sesuai dengan urutan warna yang benar untuk kabel straight, yaitu:
 - Putih-Oranye
 - Oranye
 - Putih-Hijau
@@ -30,3 +30,36 @@ Buka pilinan kabel dan luruskan setiap kabel. Susun kabel-kabel tersebut sesuai 
 ### 5. Gunakan tang crimping untuk menjepit konektor RJ-45 hingga semua pin mengigit ke masing-masing kabel dengan baik. Pastikan ada suara 'klik'
 ![Image](https://github.com/user-attachments/assets/968d022e-3e33-4f01-ba0c-95f29f1f8b0a)
 ### 6. Setelah kedua ujung kabel selesai dipasang, gunakan LAN tester untuk memastikan bahwa kabel berfungsi dengan baik. Masukkan konektor RJ-45 ke dalam port LAN tester dan periksa apakah semua lampu LED menyala sesuai urutan yang benar
+
+## Kabel Cross
+### 1. Siapkan kabel, lalu kupas ujung kabel
+### 2. Pisahkan kabel-kabel di dalamnya dan luruskan setiap kabel untuk memudahkan penyusunan
+- Susunan warna kabel ujung konektor pertama:
+Pin 1: Oranye Putih
+Pin 2: Oranye
+Pin 3: Hijau Putih
+Pin 4: Biru
+Pin 5: Biru Putih
+Pin 6: Hijau
+Pin 7: Coklat Putih
+Pin 8: Coklat
+- Untuk ujung konektor kedua, urutannya adalah:
+Pin 1: Hijau Putih
+Pin 2: Hijau
+Pin 3: Oranye Putih
+Pin 4: Biru
+Pin 5: Biru Putih
+Pin 6: Oranye
+Pin 7: Coklat Putih
+Pin 8: Coklat457.
+### 3. Setelah urutan warna sudah benar, potong ujung kabel agar rata menggunakan tang crimping
+### 4. Masukkan kabel yang sudah disusun ke dalam konektor RJ-45 hingga mentok. Pastikan semua kabel terpasang dengan benar sesuai urutan warna
+### 5. Gunakan tang crimping untuk mengunci konektor RJ-45 pada kabel. Pastikan semua pin terhubung dengan baik
+### 6. Lakukan langkah yang sama untuk ujung kedua dari kabel, menggunakan urutan warna yang berbeda seperti yang telah dijelaskan sebelumnya
+### 7. Setelah kedua ujung terpasang, gunakan LAN tester untuk memastikan bahwa semua sambungan berfungsi dengan baik. Masukkan masing-masing ujung kabel ke port LAN tester dan nyalakan alat tersebut. Pastikan semua lampu LED menyala sesuai urutan yang benar
+
+## Analisis
+Kabel straight, yang mengikuti urutan warna yang sama pada kedua ujung konektor, dirancang untuk menghubungkan perangkat yang berbeda, seperti komputer ke switch atau router. Sebaliknya, kabel cross memiliki susunan yang berbeda di salah satu ujungnya, memungkinkan koneksi langsung antara perangkat yang sama, seperti dua komputer atau dua switch. Hasil pengujian menggunakan LAN tester menunjukkan bahwa kedua jenis kabel berfungsi dengan baik sesuai dengan tujuan desainnya. Kabel straight berhasil mentransmisikan data tanpa gangguan saat terhubung ke perangkat yang berbeda, sedangkan kabel cross juga menunjukkan koneksi yang stabil saat digunakan dalam pengaturan peer-to-peer.
+
+## Kesimpulan
+Kabel straight dan cross memiliki fungsi yang berbeda, di mana kabel straight digunakan untuk menghubungkan perangkat yang berbeda, seperti komputer ke switch, sedangkan kabel cross digunakan untuk menghubungkan perangkat yang sama secara langsung, seperti dua komputer. Hasil pengujian dengan LAN tester mengonfirmasi bahwa kedua jenis kabel berfungsi dengan baik dan dapat mentransmisikan data secara efektif. Dengan demikian, kemampuan untuk membuat dan memahami penggunaan kedua jenis kabel ini merupakan keterampilan penting bagi para profesional di bidang jaringan, yang dapat meningkatkan efisiensi dan keandalan sistem komunikasi data.
